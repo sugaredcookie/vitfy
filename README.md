@@ -42,7 +42,3 @@ Once logged in, you don’t have to worry about logging out manually. It just wo
 * If your credentials change, just re-open the file and update them.
 
 ---
-
-## 📩 Contact
-
-For any issues or contributions, feel free to raise an issue or contact the developer.
