@@ -12,7 +12,7 @@ This simple tool lets you automatically log in to your college Wi-Fi without wor
 
 ### 2. Install CORS Extension (for Chrome)
 
-* Go to the [Allow CORS: Access-Control-Allow-Origin Extension]([https://chrome.google.com/webstore/detail/allow-cors-access-control/lfhmikememgdcahcdlaciloancbhjino](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en)) on the Chrome Web Store.
+* Go to the [Allow CORS: Access-Control-Allow-Origin Extension](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en) on the Chrome Web Store.
 * Click **Add to Chrome**
 * Once installed, **enable the extension** from the top-right of your browser (make sure the icon is colored, not gray).
 
